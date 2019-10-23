@@ -1,2 +1,2 @@
 # nano-drugs-for-glioblastoma
-Classifiers for anti-glioblastoma nanoparticle-drug carriers
+Machine Learning Classifiers for anti-glioblastoma nanoparticle-drug carriers based on perturbations of molecular descriptors in experimental conditions.
